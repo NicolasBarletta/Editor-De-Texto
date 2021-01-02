@@ -1,0 +1,16 @@
+#conPrincipal {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 50rem;
+    height: 55rem;
+    background: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 20px 25px 0 rgba(0, 0, 0, 0.2);
+    position: absolute;
+}
+#btnSubmit {
+    text-align: right;
+}
+#editPlano {
+    margin-top: 50px;
+}

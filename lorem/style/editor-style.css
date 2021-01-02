@@ -1,0 +1,29 @@
+.f-left{
+    margin-left: 25px;
+    width: 600px;
+    float: left;
+}
+
+#Principal{
+    height: 500px;
+}
+
+f-right{
+    display: inline-block;
+}
+
+.form-anexo{
+    background-color: white;
+    width: 350px;
+    height: 200px;
+    padding-top: 50px;
+    float: left;
+    margin-left: 25px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+.enviar{
+    margin-left: 200px;
+    margin-top: 10px;
+}

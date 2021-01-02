@@ -1,0 +1,48 @@
+body{
+    background-color: blueviolet;
+}
+
+.field-form{
+    background-color: cornflowerblue;
+    width: 40vw;
+    height: 500px;
+    border-radius: 0.2rem;
+    margin-left: 250px;    
+    margin-top: 20px;
+}
+h1{
+    padding-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.form-group{
+    padding-bottom: 20px;
+}
+input[type=password],input[type=email]{
+    width: 350px;
+    margin-left: 28px;
+}
+
+a{
+    color: white;
+    margin-left: 8px;  
+}
+
+.buttons :first-child{
+    margin-right: 25px;
+}
+.buttons{
+    margin-top: 5vh;
+    text-align: center;
+}
+
+.btn{
+    box-shadow: 8px 5px 8px 2px rgba(0,0,0,0.75);
+}
+
+
+
+ 
+
+
+

@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    height: 65.5%;
+}
+
+:root {
+    --primary-color: #085090;
+    --secondary-color: #38618C;
+}
+#img {
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    top:20px;
+    left: 0;
+    object-fit: contain;
+    padding: 2rem;
+}
+#body {
+    width: 100vw;
+    height:100vh;
+    background: linear-gradient(to right,  var(--primary-color), var(--secondary-color) ) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain; 
+}
+#bloco {
+margin-top: 40px;
+    margin-bottom: 40px;
+    width: clamp(45vw, 50rem, 65rem);
+    padding: 0.8rem;
+    background: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 20px 25px 0 rgba(0, 0, 0, 0.2);
+    position: absolute;
+}
+#editar {
+    display: flex;
+    flex-direction: row;
+    
+}

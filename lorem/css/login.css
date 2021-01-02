@@ -1,0 +1,21 @@
+#containerlogin {
+   width: 350px; 
+   margin-top: 100px;
+   border-radius: 15px;
+   border: 2px solid #f3f3f3;
+   -webkit-box-shadow: 13px 12px 23px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 12px 23px -11px rgba(0,0,0,0.75);
+box-shadow: 13px 12px 23px -11px rgba(0,0,0,0.75);
+}
+#cadeado {
+    width: 125px;
+    height: 125px;
+    
+}
+#contBotao {
+    text-align: right;
+}
+#contCadastro {
+    width: 400px; 
+    margin-top: 40px;  
+}

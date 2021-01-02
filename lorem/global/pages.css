@@ -1,0 +1,42 @@
+#bodyy {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+
+
+
+
+#gerarPDF {
+    width: clamp(20vw, 35rem, 47rem);
+    height: 5rem;
+    text-align: center;
+    background: #665687;
+    border-radius: 0.4rem;
+    border: 1px solid #B084CC;
+    color: #fff;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-right: 1.5rem;
+}
+#back {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 0.4rem;
+    background: #7878ac;
+    color: #f5f5f5;
+    border: 1px solid #A390E4;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    
+}
+.submitButton {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+}

@@ -1,0 +1,59 @@
+
+
+
+.direita{
+   background-color: white;
+    width: 6in ;
+    height: 9.25in;
+    padding-top: 3cm;
+    padding-left: 3cm;
+    padding-bottom: 2cm;
+    padding-right: 2cm;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+    
+}
+
+.caixa{
+    float: right;
+    width: 250px;
+}
+
+.folha{
+    background-color: white;
+    width: 6in ;
+    height: 9.25in;
+    padding-top: 3cm;
+    padding-left: 3cm;
+    padding-bottom: 2cm;
+    padding-right: 2cm;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+
+}
+
+.pagina{
+    background-color: white;
+    width: 6in ;
+    height: 8.25in;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 3cm;
+    padding-left: 3cm;
+    padding-bottom: 2cm;
+    padding-right: 2cm;
+    word-wrap: break-word;
+}
+
+.pagina p{
+    font-size: 12pt;
+    line-height: 1.5;
+    margin-bottom: 1.25;
+}
+
+h1{
+    font-size: 12pt;
+}
+

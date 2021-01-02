@@ -1,0 +1,74 @@
+.container {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    border-radius: 0.5rem;
+    padding-left: 8rem;
+}
+
+form {
+    margin: 2rem 0;
+    width: clamp(40vw, 60rem, 75rem);
+    background: #f5f5f5;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2);
+    padding: 2.3rem 1.4rem;
+   
+    
+}
+.input-block {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.6rem;
+
+}
+ label {
+    font-size: 1.5rem;
+}
+.input-block input { 
+    margin: 0.6rem 0;
+    height: 3.4rem; 
+    padding: 0 0.5rem;
+    font-size: 1.4rem;
+    border-radius: 0.4rem;
+    border: 1px solid rgb(122, 119, 119);
+}
+#back {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 0.4rem;
+    background: #7878ac;
+    color: #f5f5f5;
+    border: 1px solid #A390E4;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+.inp-lateral {
+    display: flex;
+    flex-direction: column;
+    
+}
+.inp-lateral label:first-child {
+    margin-top: 1rem;
+}
+
+#text-area {
+    margin: 1rem 0;
+    border: 1px solid rgb(122, 119, 119);
+    text-anchor: none;
+    padding: 0.4rem 0.5rem;
+    font-size: 1.4rem;
+    border-radius: 0.4rem;
+}
+
+.enviar {
+    width: clamp(35vw, 57rem, 67rem);
+    height: 5rem;
+    text-align: center;
+    background: #665687;
+    border-radius: 0.4rem;
+    border: 1px solid #B084CC;
+    color: #fff;
+    font-size: 2rem;
+    margin-top: 2rem;
+}

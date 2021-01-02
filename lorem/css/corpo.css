@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #b795dd;
+    --secondary-color: #9760a1;
+}
+
+body {
+    background: linear-gradient(to right,  var(--primary-color), var(--secondary-color) ) ;
+}

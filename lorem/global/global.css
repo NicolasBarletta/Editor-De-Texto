@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #b795dd;
+    --secondary-color: #9760a1;
+}
+
+:root {
+    width: 65.5%;
+    
+}
+body {
+    height: 100vh;
+    font-family: 'Archivo', sans-serif;
+    background: linear-gradient(to right,  var(--primary-color) 20%, var(--secondary-color) 20% ) 
+
+}
+
+input, button, textarea {
+    border: none;
+    outline: none;
+}
